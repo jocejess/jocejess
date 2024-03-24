@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @jocejess
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-jocejess/jocejess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Compétences                                   | Note                 | Infrastructure |
+| --------------------------------------------- | -------------------- | -------------- |
+| Architectures et protocoles de l’Internet     | Node                 | AWS            |
+| Installation, utilisation, administration Linux                                         | Go (Golang)          | Digital Ocean  |
+| Administration réseau                | Postgres             | Git            |
+| Administration des serveurs et de services             | MongoDB              | CI/CD          |
+| Virtualisation, cloud             | Aurora               | Linux          |
+| Administration d’infrastructures         | OAuth2 OpenID Client | Docker         |
+| Utilisation et administration des applications logicielles libres             | OAuth2 OpenID Server | Nginx          |
+| Sécurité                | REST                 | AWS Cognito    | 
