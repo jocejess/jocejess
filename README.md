@@ -1,6 +1,6 @@
-| Compétences                                                       | Auto-évaluation      | Pourquoi cette note | 
+| Compétences                                                       | Auto-évaluation        | Pourquoi cette note | 
 
-| ----------------------------------------------------------------- | :--------------------: | -------------- | 
+| ----------------------------------------------------------------- | :--------------------: | ------------------- | 
 
 | Architectures et protocoles de l’Internet                         | 3                 | Choses vues depuis ma formation TRTE            | 
 
