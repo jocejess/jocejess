@@ -1,10 +1,10 @@
-  <div> 
+<div> 
 
     <p align="center"><b>Jocelyn JACQUEL</b></p> 
 
     <p align="center">Etudiant BUT3 DACS</p> 
 
-  </div> 
+</div> 
 
 
 
